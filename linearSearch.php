@@ -24,4 +24,5 @@ if($result == -1)
 	echo "Elemen ada dalam index ke-",$result;
 }
 
+// Hasil : 
 // Elemen ada dalam index ke-0
